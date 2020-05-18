@@ -37,15 +37,9 @@ Standard installation uses the [Stata kernel](https://github.com/kylebarron/stat
 Markdown is a very simple syntax to help you generate text content without getting distracted by formatting. The text you generate is easily transferable to word processors and websites. Here's a [cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 # MathJax for Equations
-MathJax is a standardized syntax for generating equations that can be displayed in web browsers, text documents, etc. [All the syntax](https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference) is here. 
+MathJax is a standardized syntax for generating equations that can be displayed in web browsers, text documents, etc. [All the syntax](https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference) is here. These will work in Jupyter Notebooks.
 
-`$$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$`
-
-\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}
-
-\mathcal{W}(A,f) = (T,\bar{f})
-
-# Alternatives
+# Alternative Notebook Platforms
 [Google Colaboratory](https://colab.research.google.com/notebooks/intro.ipynb) is very easy if you are Python, and lets you run live code within the browser.
 [R Markdown Notebook](https://rmarkdown.rstudio.com/lesson-10.html) built into RStudio [detailed guide](https://bookdown.org/yihui/rmarkdown/notebook.html)
 [Apache Zeppelin](https://zeppelin.apache.org/) popular in cloud-based very big data settings using Spark, PostgreSQL, Angular, etc.

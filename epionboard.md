@@ -48,5 +48,4 @@ MathJax is a standardized syntax for generating equations that can be displayed 
 [What's the difference](https://towardsdatascience.com/jupyter-lab-evolution-of-the-jupyter-notebook-5297cacde6b) between JupyterLab versus Jupyter Notebook? Short answer: Go with JupyterLab because it is newer and easier to use, though a touch more complex to start with.
 
 # 3. Containers
-Docker
-Kubernetes
+Containers are a key reproducibility tool. Here is a [plain language Docker startup guide](https://towardsdatascience.com/learn-enough-docker-to-be-useful-b7ba70caeb4b). 

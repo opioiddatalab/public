@@ -30,6 +30,7 @@ You're good to go!<br>
 
 ## SAS
 SAS installation [overview](https://blogs.sas.com/content/sasdummy/2016/04/24/how-to-run-sas-programs-in-jupyter-notebook/) and [instructions](https://github.com/sassoftware/sas_kernel)<br>
+SAS remote server [documentation](https://enterprise-docs.anaconda.com/en/docs-site-5.1.2/user-guide/projects/connect-sas-server.html). Step-by-step [instructions](https://ambermd.org/tutorials/analysis/tutorial_notebooks/remote_notebook/index.html). We have not yet tested this with the MarketScan data on the protected server, but if you're interested in exploring it, please let us know (nab@unc.edu). 
 
 Once you get the general hang of things, you can also [configure](https://sassoftware.github.io/saspy/install.html#configuration) Jupyter to connect to remote server SAS, allowing you to keep data in secure environments.
 

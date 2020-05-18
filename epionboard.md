@@ -1,7 +1,11 @@
 # 1. GitHub
-[Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github) free short course
+[Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github) free short course<br>
 
-One platform to store data (with PHI caveats), track code changes and version control, share code and results, write equations and papers, publish websites, share data and results, do project management, provide/request tech support, clone other's research, and even more.
+One platform to store data (with PHI caveats), track code changes and version control, share code and results, write equations and papers, publish websites, share data and results, do project management, provide/request tech support, clone other's research, and even more.<br>
+
+## Version control examples
+[Demo code change](https://github.com/opioiddatalab/public/blob/master/epionboard/demoscript.do)<br>
+[Demo data table change](https://github.com/opioiddatalab/public/blob/master/epionboard/demodatachange.csv)
 
 # 2. Jupyter Notebooks
 
@@ -28,6 +32,18 @@ Once you get the general hang of things, you can also [configure](https://sassof
 
 ## Stata
 Standard installation uses the [Stata kernel](https://github.com/kylebarron/stata_kernel). But, if you want to run Python and Stata both in the same notebook, try the [ipystata](https://dev-ii-seminar.readthedocs.io/en/latest/notebooks/Stata_in_jupyter.html) kernel.
+
+# Markdown
+Markdown is a very simple syntax to help you generate text content without getting distracted by formatting. The text you generate is easily transferable to word processors and websites. Here's a [cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+
+# MathJax for Equations
+MathJax is a standardized syntax for generating equations that can be displayed in web browsers, text documents, etc. [All the syntax](https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference) is here. 
+
+`$$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$`
+
+\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}
+
+\mathcal{W}(A,f) = (T,\bar{f})
 
 # Alternatives
 [Google Colaboratory](https://colab.research.google.com/notebooks/intro.ipynb) is very easy if you are Python, and lets you run live code within the browser.
